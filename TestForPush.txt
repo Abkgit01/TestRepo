@@ -1,1 +1,0 @@
-Hello this file will goto staging then local before going to remote.
